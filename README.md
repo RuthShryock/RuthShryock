@@ -1,6 +1,6 @@
-### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h1 align="center">I'm Ruth Shryock</h1>
+
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Ruth Shryock</h1>
 <h3 align="center">a computer science student at the University of Central Florida</h3>
 
 - 🔭 I’m currently working on [Knightr0's Gambit](https://github.com/ucfai/knightros-gambit)
