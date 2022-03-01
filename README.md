@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwaving-wave-hand-emoji-gif-10897308&psig=AOvVaw2-E-0zchwBNZH6cJo51NZy&ust=1646257599756000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj4u87xpfYCFQAAAAAdAAAAABAU" width="30px">
+
 
 <!--
 **RuthShryock/RuthShryock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
