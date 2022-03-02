@@ -1,11 +1,11 @@
 
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I'm Ruth Shryock</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I'm Ruthie</h1>
 <h3 align="center">a computer science student at the University of Central Florida</h3>
 
-- 🔭 I’m currently working on [Knightr0's Gambit](https://github.com/ucfai/knightros-gambit)
+- 🔭 I’m currently working on [Knightr0's Gambit](https://github.com/ucfai/knightros-gambit), an automatic chessboard controlled by a custom chess AI
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning more about **frontend development**
 
 - 📫 How to reach me **ruthieshryock@gmail.com**
 
