@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Knightr0's Gambit](https://github.com/ucfai/knightros-gambit), an automatic chessboard controlled by a custom chess AI
 
-- 🌱 I’m currently learning more about **frontend development**
+- 🌱 I’m also learning more about **frontend development**
 
 - 📫 How to reach me: **ruthieshryock@gmail.com**
 
