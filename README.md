@@ -30,5 +30,5 @@
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/></a>
 </p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthshryock&show_icons=true&locale=en" alt="ruthshryock" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthshryock&show_icons=true&locale=en&theme=tokyonight" alt="ruthshryock" /></p>
 
