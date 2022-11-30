@@ -3,7 +3,9 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruthie!</h1>
 <h3 align="center">a computer science student at the University of Central Florida</h3>
 
-- 🔭 I’m currently working on [Knightr0's Gambit](https://github.com/ucfai/knightros-gambit), an automatic chessboard controlled by a custom chess AI
+- 🔭 I’m currently working on
+    - Growth+, a math application for kids in West Africa
+    - [Knightr0's Gambit](https://github.com/ucfai/knightros-gambit), an automatic chessboard controlled by a custom chess AI
 
 - 🌱 I’m also learning more about **frontend and mobile development**
 
