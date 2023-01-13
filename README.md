@@ -31,5 +31,5 @@
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" alt="react" width="40" height="40"/></a>
 </p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthshryock&show_icons=true&locale=en&theme=tokyonight" alt="ruthshryock" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ruthshryock&show_icons=true&locale=en&theme=tokyonight" alt="ruthshryock" /></p>
 
