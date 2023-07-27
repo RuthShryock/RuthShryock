@@ -1,11 +1,11 @@
 
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruthie!</h1>
-<h3 align="center">a computer science student at the University of Central Florida</h3>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ruthie!</h1>
+<h3 align="center">a recent computer science grad from UCF</h3>
 
 - 🔭 I’m currently working on [Growth+](https://github.com/ucfcs/Fall2022-Group20), a math application for kids in West Africa
 
-- 🌱 I’m also learning more about **frontend and mobile development**
+- 🌱 I’m growing in my **frontend and mobile development** skills
 
 - 📫 How to reach me: **ruthieshryock@gmail.com** or checkout [ruthshryock.com](https://ruthshryock.com)
 
@@ -27,7 +27,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>  
 <a href="https://bitbucket.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg" alt="bitbucket"width="40" height="40"/></a>
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/></a>
-<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" alt="react" width="40" height="40"/></a>
 </p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ruthshryock&show_icons=true&locale=en&theme=tokyonight" alt="ruthshryock" /></p>
