@@ -7,7 +7,7 @@
 
 - 🌱 I’m growing in my **frontend and mobile development** skills
 
-- 📫 How to reach me: **ruthieshryock@gmail.com** or checkout [ruthshryock.com](https://ruthshryock.com)
+- 📫 How to reach me: **ruthieshryock@gmail.com** or checkout [ruthshryock.netlify.app](https://ruthshryock.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
