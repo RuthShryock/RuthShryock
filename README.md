@@ -5,14 +5,9 @@
 
 - 🔭 I’m currently working on [Growth+](https://github.com/ucfcs/Fall2022-Group20), a math application for kids in West Africa
 
-- 🌱 I’m growing in my **frontend and mobile development** skills
+- 🌱 I’m growing in my **full-stack and mobile development** skills
 
 - 📫 How to reach me: **ruthieshryock@gmail.com** or checkout [ruthshryock.netlify.app](https://ruthshryock.netlify.app)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ruth-shryock/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruth-shryock-8b5710195/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
