@@ -3,8 +3,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ruthie!</h1>
 <h3 align="center">a full-stack developer at Kobotoolbox</h3>
 
-- 🔭 I’m currently working on [Growth+](https://github.com/ucfcs/Fall2022-Group20), a math application for kids in West Africa
-
 - 🌱 I’m growing in my **full-stack and mobile development** skills
 
 - 📫 How to reach me: **ruthieshryock@gmail.com** or checkout [ruthshryock.netlify.app](https://ruthshryock.netlify.app)
